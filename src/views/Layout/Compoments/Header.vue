@@ -1,6 +1,6 @@
 <template>
     <div id="header-wrap">
-        导航
+        导航栏
     </div>
 </template>
 
